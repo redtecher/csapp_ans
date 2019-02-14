@@ -59,7 +59,7 @@
                 "_UNICODE"
             ],
             "compilerPath": "F:\\MinGW\\bin\\gcc.exe",
-            "intelliSenseMode": "clang-x64",
+            "intelliSenseMode": "msvc-x64",
             "browse": {
                 "path": [
                     "${workspaceFolder}"
